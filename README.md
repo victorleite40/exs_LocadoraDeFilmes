@@ -1,6 +1,6 @@
-Exercício feito em aula de Técnicas de Programação.
+Exercício feito em aula de Técnicas de Programação:
 
-### Locadora de Filmes
+## Locadora de Filmes
 
 Uma locadora de filmes tem a seguinte regra para aluguel de fitas, construa um programa para ajudar nas locações das fitas.
 
